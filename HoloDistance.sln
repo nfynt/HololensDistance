@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HoloDistance", "Assembly-CSharp.csproj", "{7A1798AB-7F3C-C80E-5A39-F2F788F18ABB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HoloDistance", "Assembly-CSharp-Editor.csproj", "{B0C8DC95-BBD3-E384-4504-20C3DEE8C51D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A1798AB-7F3C-C80E-5A39-F2F788F18ABB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A1798AB-7F3C-C80E-5A39-F2F788F18ABB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A1798AB-7F3C-C80E-5A39-F2F788F18ABB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A1798AB-7F3C-C80E-5A39-F2F788F18ABB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0C8DC95-BBD3-E384-4504-20C3DEE8C51D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0C8DC95-BBD3-E384-4504-20C3DEE8C51D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0C8DC95-BBD3-E384-4504-20C3DEE8C51D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0C8DC95-BBD3-E384-4504-20C3DEE8C51D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
